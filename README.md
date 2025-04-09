@@ -1,1 +1,1 @@
-# MERN_Assignment_1_Q6
+# Basic_MERN_Assignment_1_Q6
